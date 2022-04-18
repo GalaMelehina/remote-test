@@ -46,3 +46,11 @@ h1 {
   text-transform: uppercase;
 }
 
+.footer {
+  padding: 50px 100px;
+  background: #4c6292;
+  font-size: 32px;
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(255, 255, 255);
+}
